@@ -1,0 +1,2 @@
+# Tomato-LeafSense-Intelligent-Leaf-Health-Monitoring-for-Agriculture-and-Horticulture
+Tomato LeafSense is a deep learning system that detects and classifies tomato leaf diseases using models like VGG16, ResNet50, CNN, and EfficientNetB0. Built with Python and TensorFlow, it offers real-time image uploads via a Tkinter interface. The system enhances agricultural productivity with accurate, timely disease detection.
